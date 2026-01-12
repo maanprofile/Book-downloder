@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NCERT Full Book Download</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{ font-family: Arial,sans-serif; background:#f4f6fa; padding:20px; }
+header{ background:#1e88e5; color:#fff; text-align:center; padding:15px; font-size:18px; }
+.container{ max-width:700px; margin:20px auto; }
+.card{ background:#fff; padding:15px; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.1); margin-bottom:20px; }
+.card h2{ text-align:center; margin-bottom:10px;}
+.actions a{
+  display:block;
+  text-align:center;
+  margin:10px 0;
+  padding:12px;
+  font-size:16px;
+  text-decoration:none;
+  color:#fff;
+  border-radius:6px;
+  font-weight:bold;
+}
+.download{background:#43a047;}
+.note{ font-size:12px; text-align:center; color:#555; margin-top:10px; }
+</style>
+</head>
+<body>
+
+<header>📚 NCERT Full Book Download – Class 11 & 12</header>
+<div class="container">
+
+<!-- CLASS 12 -->
+<div class="card">
+<h2>Class 12 – Physics</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/leph1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/lhph1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<div class="card">
+<h2>Class 12 – Chemistry</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/lech1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/lhch1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<div class="card">
+<h2>Class 12 – Biology</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/lebo1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/lhbo1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<!-- CLASS 11 -->
+<div class="card">
+<h2>Class 11 – Physics</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/kep1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/khph1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<div class="card">
+<h2>Class 11 – Chemistry</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/kec1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/khc1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<div class="card">
+<h2>Class 11 – Biology</h2>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/kebo1dd.zip" download>Download English (Full Book)</a>
+<a class="download" href="https://ncert.nic.in/textbook/pdf/khbo1dd.zip" download>Download Hindi (Full Book)</a>
+</div>
+
+<p class="note">
+⚠️ Click any link to **download the full book**. Works in browser & WebView.  
+ZIP files cannot be opened inside the browser — download first to open.
+</p>
+
+</div>
+</body>
+</html>
